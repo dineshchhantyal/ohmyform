@@ -1,0 +1,20 @@
+{
+  "emailFieldRequired": "कृपया ईमेल फील्ड चयन गर्नुहोस्",
+  "emailRequired": "कृपया ईमेल प्रदान गर्नुहोस्",
+  "invalidEmail": "वैध ईमेल हुनुपर्छ!",
+  "invalidNumber": "वैध संख्या हुनुपर्छ!",
+  "invalidSlug": "स्लग केवल lowercase a-z, 0-9 र _ समावेश गर्न सक्छ",
+  "invalidUrl": "वैध युएरएल हुनुपर्छ",
+  "languageRequired": "कृपया भाषा चयन गर्नुहोस्",
+  "mandatoryFieldsMissing": "आवश्यक फील्डहरू अभाव",
+  "passwordConfirmMismatch": "तपाईंले दुई पासवर्ड प्रविष्ट गरेका छन्, तिनिहरू मिल्दैन!",
+  "passwordConfirmRequired": "कृपया पासवर्ड पुष्टि गर्नुहोस्!",
+  "passwordMinLength": "कमसेकम ५ अक्षर भन्दा लामो हुनुपर्छ!",
+  "passwordRequired": "कृपया पासवर्ड प्रविष्ट गर्नुहोस्!",
+  "subjectRequired": "कृपया विषय प्रदान गर्नुहोस्",
+  "templateRequired": "कृपया टेम्पलेट प्रदान गर्नुहोस्",
+  "titleRequired": "कृपया शीर्षक प्रदान गर्नुहोस्",
+  "urlRequired": "कृपया युएरएल प्रदान गर्नुहोस्",
+  "usernameRequired": "कृपया उपयोगकर्ता नाम प्रदान गर्नुहोस्",
+  "valueRequired": "कृपया मूल्य प्रदान गर्नुहोस्"
+}

@@ -1,0 +1,117 @@
+{
+  "baseData": {
+    "isLive": "चलिरहेको छ",
+    "language": "भाषा",
+    "showFooter": "फुटर देखाउनुहोस्",
+    "title": "शीर्षक"
+  },
+  "baseDataTab": "मूल डेटा",
+  "building": "फारम बनाउनुहोस्",
+  "confirmDelete": "के तपाईले यो फारम संगै सबै पेश्कशहरु मेटाउन चाहनुहुन्छ?",
+  "continue": "अगाडि बढाउनुहोस्",
+  "create": "नयाँ फारम सिर्जना गर्नुहोस्",
+  "createNow": "संचित गर्नुहोस्",
+  "created": "फारम सिर्जना भयो",
+  "creationError": "फारम सिर्जना नहुनसक्यो",
+  "deleteError": "फारम मेटाउन नहुनसक्यो",
+  "deleteNow": "अहिले मेटाउनुहोस्!",
+  "deleted": "फारम मेटाइयो",
+  "design": {
+    "color": {
+      "answer": "उत्तर रङ्ग",
+      "background": "पृष्ठभूमि रङ्ग",
+      "button": "बटन रङ्ग",
+      "buttonActive": "सक्रिय बटन रङ्ग",
+      "buttonText": "बटन पाठ रङ्ग",
+      "question": "प्रश्न रङ्ग"
+    },
+    "font": "फोन्ट",
+    "layout": {
+      "card": "कार्ड",
+      "slider": "स्लाइडर"
+    },
+    "layouts": "लेआउट"
+  },
+  "designTab": "डिजाइन",
+  "endPage": {
+    "action": "कार्य",
+    "activeColor": "सक्रिय रङ्ग",
+    "addButton": "बटन थप्नुहोस्",
+    "bgColor": "पृष्ठभूमि रङ्ग",
+    "buttons": "बटनहरु",
+    "color": "रङ्ग",
+    "continueButtonText": "अगाडि बढाउनुहोस् बटन पाठ",
+    "paragraph": "अनुच्छेद",
+    "paragraphInfo": "उन्नत स्वरुपमा प्रयोग गर्नुहोस्",
+    "show": "देखाउनुहोस्",
+    "text": "पाठ",
+    "title": "शीर्षक",
+    "url": "युएरएल"
+  },
+  "endPageTab": "अन्तिम पृष्ठ",
+  "fieldsTab": "फारम क्षेत्रहरु",
+  "hooks": {
+    "add": "थप्नुहोस्",
+    "enabled": "सक्षम"
+  },
+  "hooksTab": "वेब हुक",
+  "loading": "फारम लोड हुँदैछ",
+  "logic": {
+    "action": {
+      "disable": "अक्षम",
+      "jumpTo": "छलांग गर्नुहोस्",
+      "require": "आवश्यकता",
+      "visible": "दृश्य"
+    },
+    "add": "लोजिक थप्नुहोस्"
+  },
+  "mange": "फारम \"{{title}}\" संपादन गर्नुहोस्",
+  "new": "नयाँ फारम",
+  "next": "अगाडि",
+  "notifications": {
+    "add": "सूचना थप्नुहोस्",
+    "enabled": "सक्षम",
+    "fromEmail": "पठाउने ईमेल",
+    "fromEmailInfo": "यहाँबाट ईमेल पठाउन सकिन्छ",
+    "fromField": "पठाउने ईमेल क्षेत्र",
+    "fromFieldInfo": "ईमेल क्षेत्र, प्रत्युत्तर शीर्षक सेट गरिन्छ",
+    "htmlTemplate": "एचटीएमएल टेम्प्लेट",
+    "htmlTemplateInfo": "तपाईंMJML प्रयोग गरेर ईमेल टेम्प्लेट बनाउन सकिन्छ",
+    "subject": "विषय",
+    "toEmail": "तपाईंको ईमेल",
+    "toEmailInfo": "यदि सेट नहुन्छ भने फारम प्रशासकलाई पठाउन्छ",
+    "toField": "ईमेल क्षेत्र",
+    "toFieldInfo": "प्राप्तकर्ता ईमेल क्षेत्र"
+  },
+  "notificationsTab": "सूचनाहरु",
+  "previous": "पछिल्लो",
+  "restart": "फारम पुनः सुरु गर्नुहोस्",
+  "row": {
+    "admin": "प्रशासक",
+    "created": "सिर्जना भयो",
+    "isLive": "चलिरहेको छ",
+    "language": "भाषा",
+    "lastModified": "अन्तिम परिवर्तन",
+    "title": "शीर्षक"
+  },
+  "startPage": {
+    "action": "कार्य",
+    "activeColor": "सक्रिय रङ्ग",
+    "addButton": "बटन थप्नुहोस्",
+    "bgColor": "पृष्ठभूमि रङ्ग",
+    "buttons": "बटनहरु",
+    "color": "रङ्ग",
+    "continueButtonText": "अगाडि बढाउनुहोस् बटन पाठ",
+    "paragraph": "अनुच्छेद",
+    "paragraphInfo": "उन्नत स्वरुपमा प्रयोग गर्नुहोस्",
+    "show": "देखाउनुहोस्",
+    "text": "पाठ",
+    "title": "शीर्षक",
+    "url": "युएरएल"
+  },
+  "startPageTab": "प्रारम्भिक पृष्ठ",
+  "submitted": "तपाईंको पेश्कश सफल भयो!",
+  "updateError": "फारम अद्यावधिक नहुनसक्यो",
+  "updateNow": "अहिले संचित गर्नुहोस्",
+  "updated": "फारम अद्यावधिक भयो"
+}

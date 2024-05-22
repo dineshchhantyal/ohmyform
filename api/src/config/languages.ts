@@ -18,6 +18,7 @@ export const languages = [
   'sv',
   'ta',
   'uk',
+  'np',
 ]
 
 export const defaultLanguage = 'en'
